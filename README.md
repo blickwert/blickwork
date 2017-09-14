@@ -9,6 +9,15 @@
 * on http/2 use header push for external files 
 * add 404 contentpage ( see. http://www.audible.de/pderror )  
 
+### Elementor 
+* input design from frontend
+  e.g.     
+    background-color: transparent;
+    border: 0;
+    font-size: 1.3em;
+    font: 300 23px/27px 'Roboto Slab',sans-serif;
+
+
 ### Membersarea
 -- if logged out
 * h1
