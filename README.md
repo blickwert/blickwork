@@ -17,6 +17,15 @@
     font-size: 1.3em;
     font: 300 23px/27px 'Roboto Slab',sans-serif;
 
+### PHP Klassen
+* ACF-Fields
+  * acf_add_local_field_group()
+  * acf_add_local_field()
+  * $subfield_variables
+* create Post
+  
+* ACF-Frontend
+  * hock js/css
 
 ### Membersarea
 -- if logged out
